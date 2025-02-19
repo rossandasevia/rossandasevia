@@ -9,17 +9,17 @@ I'm Rossanda, a statistic major graduate with a strong interest in data analysis
 - 📚 Enthusiastic and open to learning new skills
 - 🌏 Malang, Indonesia. Open to collaborate globally.
 
-## Technical Skills
-### Programming Languages
+## Technical Skills 🖱
+### Programming Languages 🌐
 - Python
 - R
-### Database
+### Database 📁
 - MySQL
-### Tools
+### Tools 💻
 - Rstudio
 - Google Colab
 - Microsoft Office
 
-## Reach Me
+## Reach Me 📫
 - 🖇 LinkedIn: linkedin.com/in/rossandaseviagadis/
 - 📧 E-mail: rossandasg@gmail.com

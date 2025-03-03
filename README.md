@@ -18,6 +18,7 @@ I'm Rossanda, a statistic major graduate with a strong interest in data analysis
 ### Tools 💻
 - Rstudio
 - Google Colab
+- PowerBI
 - Microsoft Office
 
 ## Reach Me 📫
